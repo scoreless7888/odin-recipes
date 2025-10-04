@@ -1,1 +1,1 @@
-# odin-recipes
+I had to recreate the "odin-recipes" repository due to refreshing my memory on creating and cloning a repository from the "Git Basics" lesson. Generally speaking, it is my goal to use the foundational HTML knowledge that I have learned to successfully create a webpage within the limits of what I know so far.
